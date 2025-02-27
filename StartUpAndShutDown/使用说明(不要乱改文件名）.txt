@@ -1,0 +1,3 @@
+将需要打开的程序的快捷方式放入open文件夹，打开并尝试最小化的程序放入openAndMinimize文件夹
+程序每15s锁一次屏幕，记得签到后再关闭命令行方可解除锁定
+win + R 输入 shell:startup 把openNecessary.bat放入文件夹中即可做到开机自动启动脚本
